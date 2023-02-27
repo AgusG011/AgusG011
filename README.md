@@ -10,7 +10,7 @@
 <img width="40%" align="right" alt="Github" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 <br>
 <p aligh="justify">
-Highly Full Stack Developer with 8 month of experience in web development.   
+I'm a Full Stack Developer with 8 month of experience in web development.   
 
 He always learning the best practices to improve solutions as a professional.
 
