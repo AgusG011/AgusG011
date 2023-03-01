@@ -56,5 +56,26 @@ He always willing to learn more, since curiosity is a quality that characterizes
 #### Markup Languages:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/) 
 
+## 💻 My Projects 
+
+-(https://henrymusic.tech/)
+Full Stack Project realized as a final project for Soy Henry    
+Henry Music - App Streaming De Música.
+ <a href="https://github.com/juanxp1/henryMusic.git">
+![landing](https://user-images.githubusercontent.com/110571765/221952044-30ed8ecd-0e84-43da-a2fd-1428e1c50953.png)
+![henry music 2](https://user-images.githubusercontent.com/110571765/221952225-edae5fbf-e5a0-460e-813a-903cc955a1f4.png)
+![henry music 1](https://user-images.githubusercontent.com/110571765/221952291-d3363ec2-e4d0-44aa-a4cb-ea02d9e64a39.png)
+</a>
+ 
+- [Countries App]
+Full Stack Project for the bootcamp SoyHenry using REACT JS, SQL, EXPRESS & NODE JS <br>
+Diseñar y desarrollar una App de países que incluía: <br>
+búsquedas, filtrados, ordenamientos y creación.Diseñar y desarrollar una App de países que incluía: búsquedas, filtrados, ordenamientos y creación.
+dic. 2022 - ene. 2023
+ <a href="https://github.com/AgusG011/PI-Countries">![2](https://user-images.githubusercontent.com/105174521/222204322-292271bb-1b5d-4c9c-b84f-0b2953e6a63c.jpg)</a>
+<a href="https://github.com/AgusG011/PI-Countries">![1](https://user-images.githubusercontent.com/105174521/222204440-6a545862-f0ee-428b-8e13-93e84df6f57c.jpg)</a>
+
+ 
+
 
 
