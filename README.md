@@ -3,7 +3,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>
 
-# **Hi there, I'm [Agustin Adriel Guerrero Peralta ](https://www.linkedin.com/in/agust%C3%ADn-guerrero-66700721b/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">  ![visitors](https://visitor-badge.glitch.me/badge?page_id=juanparraiv.juanparraiv)
+# **Hi there, I'm [Agustin Guerrero ](https://www.linkedin.com/in/agust%C3%ADn-guerrero-66700721b/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">  ![visitors](https://visitor-badge.glitch.me/badge?page_id=juanparraiv.juanparraiv)
 
 ### 👨🏻‍💻 &nbsp;About Me
 <div>
