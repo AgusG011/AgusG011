@@ -79,7 +79,7 @@ dic. 2022 - ene. 2023
 Personal project using REACT and CSS.<br>
 Diseñar y desarrollar el famoso juego de tic tac toe SOLO UTILIZANDO REACT: <br>
 ene. 2023 - ene. 2023
-<a href="https://game-six-sigma.vercel.app/">![sa](https://user-images.githubusercontent.com/105174521/222979637-37e4fb72-d27d-45da-83ec-2b1054b40bca.jpg)</a>
+<a href="https://github.com/AgusG011/Game">![sa](https://user-images.githubusercontent.com/105174521/222979637-37e4fb72-d27d-45da-83ec-2b1054b40bca.jpg)</a>
 
 
 
