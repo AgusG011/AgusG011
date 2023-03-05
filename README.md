@@ -75,7 +75,11 @@ dic. 2022 - ene. 2023
  <a href="https://github.com/AgusG011/PI-Countries">![5](https://user-images.githubusercontent.com/105174521/222562316-90a976b5-455f-482b-a3b6-7a7ab10e29b4.jpg)</a>
 <a href="https://github.com/AgusG011/PI-Countries">![6](https://user-images.githubusercontent.com/105174521/222787541-0ec0c0b0-8512-460d-b925-be213451c78d.jpg)</a>
 
- 
+ -(https://game-six-sigma.vercel.app/)
+Personal project using REACT and CSS.
+Diseñar y desarrollar el famoso juego de tic tac toe SOLO UTILIZANDO REACT: <br>
+ene. 2023 - ene. 2023
+<a href="https://game-six-sigma.vercel.app/">![sa](https://user-images.githubusercontent.com/105174521/222979637-37e4fb72-d27d-45da-83ec-2b1054b40bca.jpg)</a>
 
 
 
