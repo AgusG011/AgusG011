@@ -72,8 +72,8 @@ Full Stack Project for the bootcamp SoyHenry using REACT JS, SQL, EXPRESS & NODE
 Diseñar y desarrollar una App de países que incluía: <br>
 búsquedas, filtrados, ordenamientos y creación.Diseñar y desarrollar una App de países que incluía: búsquedas, filtrados, ordenamientos y creación.
 dic. 2022 - ene. 2023
- <a href="https://github.com/AgusG011/PI-Countries">![5](https://user-images.githubusercontent.com/105174521/222562316-90a976b5-455f-482b-a3b6-7a7ab10e29b4.jpg)</a>
-<a href="https://github.com/AgusG011/PI-Countries">![6](https://user-images.githubusercontent.com/105174521/222787541-0ec0c0b0-8512-460d-b925-be213451c78d.jpg)</a>
+ <a href="https://github.com/AgusG011/deploy">![5](https://user-images.githubusercontent.com/105174521/222562316-90a976b5-455f-482b-a3b6-7a7ab10e29b4.jpg)</a>
+<a href="https://github.com/AgusG011/deploy">![6](https://user-images.githubusercontent.com/105174521/222787541-0ec0c0b0-8512-460d-b925-be213451c78d.jpg)</a>
 
  -(https://game-six-sigma.vercel.app/)
 Personal project using REACT and CSS.<br>
