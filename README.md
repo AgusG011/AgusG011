@@ -56,30 +56,5 @@ He always willing to learn more, since curiosity is a quality that characterizes
 #### Markup Languages:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/) 
 
-## 💻 My Projects 
-
--(https://henrymusic.tech/)
-Full Stack Project realized as a final project for Soy Henry    
-Henry Music - App Streaming De Música.
- <a href="https://github.com/juanxp1/henryMusic.git">
-![landing](https://user-images.githubusercontent.com/110571765/221952044-30ed8ecd-0e84-43da-a2fd-1428e1c50953.png)
-![henry music 2](https://user-images.githubusercontent.com/110571765/221952225-edae5fbf-e5a0-460e-813a-903cc955a1f4.png)
-![henry music 1](https://user-images.githubusercontent.com/110571765/221952291-d3363ec2-e4d0-44aa-a4cb-ea02d9e64a39.png)
-</a>
- 
-- (https://deploy-2237.vercel.app/)
-Full Stack Project for the bootcamp SoyHenry using REACT JS, SQL, EXPRESS & NODE JS <br>
-Diseñar y desarrollar una App de países que incluía: <br>
-búsquedas, filtrados, ordenamientos y creación.Diseñar y desarrollar una App de países que incluía: búsquedas, filtrados, ordenamientos y creación.
-dic. 2022 - ene. 2023
- <a href="https://github.com/AgusG011/deploy">![5](https://user-images.githubusercontent.com/105174521/222562316-90a976b5-455f-482b-a3b6-7a7ab10e29b4.jpg)</a>
-<a href="https://github.com/AgusG011/deploy">![6](https://user-images.githubusercontent.com/105174521/222787541-0ec0c0b0-8512-460d-b925-be213451c78d.jpg)</a>
-
- -(https://game-six-sigma.vercel.app/)
-Personal project using REACT and CSS.<br>
-Diseñar y desarrollar el famoso juego de tic tac toe SOLO UTILIZANDO REACT: <br>
-ene. 2023 - ene. 2023
-<a href="https://github.com/AgusG011/Game">![sa](https://user-images.githubusercontent.com/105174521/222979637-37e4fb72-d27d-45da-83ec-2b1054b40bca.jpg)</a>
-
 
 
